@@ -5,7 +5,7 @@ Une calculatrice scientifique de base en HTML (pas terrible au design).
 Pour plus d'information, visitez [GitHub](https://github.com/FriquetLuca/Calculator-project/).
 
 ## [Take a Wish](https://friquetluca.github.io/dark-kitchen/)
-Un projet BeCode collaboratif dont le but est d'imaginer un site web pour un service de livraison à domicile pour différents menus.
+Un projet BeCode collaboratif dont le but est d'imaginer un site web pour un service de livraison de repas à domicile.
 Pour plus d'information, visitez [GitHub](https://github.com/FriquetLuca/dark-kitchen/).
 
 ## [Journal Phasmophobia](https://friquetluca.github.io/Journal-Phasmophobia/)
